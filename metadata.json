@@ -1,0 +1,6 @@
+{
+  "name": "WorkoutAI",
+  "description": "AI-powered workout routine generator that scans gym workout schedules and crafts step-by-step routines with reps, sets, and stretching.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
